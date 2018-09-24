@@ -8,7 +8,7 @@ Version](https://badge.fury.io/rb/mdbootstrap-rails.svg)](https://badge.fury.io/
 `mdbootstrap-rails` is make for Rails Project with Bootstrap v4 and
 MDB(Material Design Bootstrap) 
 
-Current MDB Version: MDB Free 4.2.0
+Current MDB Version: MDB Free 4.5.11
 
 Documentation:
 http://mdbootstrap.com/
